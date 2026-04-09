@@ -21,7 +21,7 @@ favicon: /Maxfav.png
 layout: image
 image: /coherence.png
 ---
-<div class="absolute bottom-10 left-0 right-0 text-center text-sm opacity-50">
+<div class="absolute bottom-10 left-0 right-0 text-center text-lg opacity-50">
   <a href="https://achievethecore.org/coherence-map/" target="_blank">Coherence Maps</a>
 </div>
 ---
