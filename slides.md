@@ -20,7 +20,7 @@ favicon: /Maxfav.png
 ---
 
 <div class="flex justify-center items-center h-full">
-  <iframe title="vimeo-player" src="https://player.vimeo.com/video/81639437?h=61f66281dd" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+  <iframe title="vimeo-player" src="https://player.vimeo.com/video/81639437?h=61f66281dd" width="100%" height="auto" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 </div>
 
 ---
