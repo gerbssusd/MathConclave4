@@ -22,7 +22,7 @@ layout: image
 image: /coherence.png
 ---
 
-<a href="https://achievethecore.org/coherence-map/" target="_blank"># Coherence Maps</a>
+<a href="https://achievethecore.org/coherence-map/" target="_blank">Coherence Maps</a>
 
 # Coherence Maps
 
